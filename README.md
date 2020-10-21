@@ -19,7 +19,7 @@ Durante anos de estudos e experiência adquiri conhecimento e facilidade com dad
 
 Acredito que no mundo tecnológico em que vivemos é importantíssimo aprender e colocar em prática habilidades como analisar e manipular dados e transformá-los em informação relevante para tomada de decisão. 
 
-Estou preparando aos poucos meus projetos para serem compartilhados no GitHub e sou graduanda em Sistemas de Informção e Estatística. 
+Estou preparando aos poucos meus projetos para serem compartilhados no GitHub e sou graduada em Sistemas de Informação e Estatística. 
 
 ---
 
