@@ -1,4 +1,4 @@
-![capa github](https://github.com/tondoloc/tondoloc/blob/main/images/CatiaTondolo(1).png)  
+![capa github](https://github.com/tondoloc/tondoloc/blob/main/Images/CatiaTondolo(1).png)  
 
 
 <center>
